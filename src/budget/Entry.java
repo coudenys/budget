@@ -8,6 +8,7 @@ public class Entry implements Comparable<Entry>{
 	
 	
 	public Entry( Date d, String s , double p , String ca, String co){
+		
 		this.date = d;
 		this.store = s;
 		this.price = p;
